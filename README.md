@@ -131,7 +131,7 @@
 </br>
 
 <p>
-	<a href="">
+	<a href="#">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPfeffer&layout=compact&theme=calm" alt="hugopfeffer" />
 	</a>
 </p>
