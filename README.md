@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, Hallo, Olá! I'm Hugo Pfeffer, a self-though developer and IT lover.</h1>
+<h1 align="center">Hi, Hallo, Olá! I'm Hugo Pfeffer, a self-thought developer and IT lover.</h1>
 <h3 align="center">I discovered my love for IT while playing a game called Arma 3. Since then I've learned a lot of new tools and technologies.</h3>
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=hugopfeffer&label=Profile%20views&color=0e75b6&style=flat" alt="hugopfeffer" />
@@ -9,7 +9,7 @@
 
 -  How to reach me **hugo.pguima@gmail.com**
 
--  Fun fact **Challange me at Soccer Table!**
+-  Fun fact **I watch The Godfather Trilogy every year**
 
 -  Spoken languages **German, Portuguese (native) and English**
 
