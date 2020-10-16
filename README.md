@@ -157,7 +157,7 @@ Here are some ideas to get you started:
 -->
 
 (setq markdown-xhtml-header-content
-      "<style>
+      "<style type='text/css'>
 .tool-belt {
 	display: inline-block;
 	width: 49%;
