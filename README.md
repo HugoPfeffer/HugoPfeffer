@@ -39,10 +39,10 @@
 </br>
 
 
-<div class="tool-belt">
+<div style="width: 49%; display: inline-block">
 	<h3 align="left">Languages and Tools:</h3>
 	</br>
-	<div class="">
+	<div style="">
 		<p align="left">
 			<a href="https://getbootstrap.com" target="_blank">
 				<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
@@ -77,7 +77,7 @@
 		</p>
 	</div>
 </div>
-<div class="tool-belt">
+<div style="width: 49%; display: inline-block">
 	<h3 align="left">DevOps:</h3>
 	</br>
 	<div class="">
@@ -109,8 +109,7 @@
 		</p>
 	</div>
 </div>
-</br>
-<div class="tool-belt">
+<div style="width: 49%; display: inline-block">
 	<h3 align="left">OS:</h3>
 	</br>
 	<div class="">
@@ -156,10 +155,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(setq markdown-xhtml-header-content
+<!-- (setq markdown-xhtml-header-content
       "<style type='text/css'>
 .tool-belt {
 	display: inline-block;
 	width: 49%;
 }
-</style>")
+</style>") -->
