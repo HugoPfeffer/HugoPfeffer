@@ -131,11 +131,17 @@
 </br>
 
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugopfeffer&layout=compact" alt="hugopfeffer" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPfeffer&layout=compact&theme=calm" alt="hugopfeffer" />
 </p>
-<p>&nbsp;
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPfeffer&repo=docker-kubernetes&theme=calm" alt="hugopfeffer" />
+</p>
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPfeffer&repo=vagrant-ansible&theme=calm" alt="hugopfeffer" />
+</p>
+<!-- <p>&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugopfeffer&show_icons=true" alt="hugopfeffer" />
-</p>
+</p> -->
 
 
 
