@@ -37,16 +37,8 @@
 
 </br>
 </br>
-<style>
-/* .d-inline-block {
-	display: inline;
-	width: 49%;
-} */
-.tool-belt {
-	display: inline-block;
-	width: 49%;
-}
-</style>
+
+
 <div class="tool-belt">
 	<h3 align="left">Languages and Tools:</h3>
 	</br>
@@ -164,4 +156,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+(setq markdown-xhtml-header-content
+      "<style>
+.tool-belt {
+	display: inline-block;
+	width: 49%;
+}
+</style>")
