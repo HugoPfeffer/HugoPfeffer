@@ -133,10 +133,10 @@
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPfeffer&layout=compact&theme=calm" alt="hugopfeffer" />
 </p>
-<p>
+<p>&nbsp;
 	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPfeffer&repo=docker-kubernetes&theme=calm" alt="hugopfeffer" />
 </p>
-<p>
+<p>&nbsp;
 	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPfeffer&repo=vagrant-ansible&theme=calm" alt="hugopfeffer" />
 </p>
 <!-- <p>&nbsp;
