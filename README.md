@@ -131,15 +131,21 @@
 </br>
 
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPfeffer&layout=compact&theme=calm" alt="hugopfeffer" />
+	<a href="">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPfeffer&layout=compact&theme=calm" alt="hugopfeffer" />
+	</a>
 </p>
 </br>
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPfeffer&repo=docker-kubernetes&theme=calm" alt="hugopfeffer" />
+	<a href="https://github.com/HugoPfeffer/docker-kubernetes">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPfeffer&repo=docker-kubernetes&theme=calm" alt="hugopfeffer" />
+	</a>
 </p>
 </br>
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPfeffer&repo=vagrant-ansible&theme=calm" alt="hugopfeffer" />
+	<a href="https://github.com/HugoPfeffer/vagrant-ansible">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPfeffer&repo=vagrant-ansible&theme=calm" alt="hugopfeffer" />
+	</a>
 </p>
 <!-- <p>&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugopfeffer&show_icons=true" alt="hugopfeffer" />
