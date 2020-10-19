@@ -51,6 +51,19 @@
 </td><td valign="top" width="33%">
 
 
+<h3 align="center"> Operating Systems </h3>
+<div align="center">  
+    <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="50"/></a>
+    <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="50"/></a>
+</div> 
+
+<div align="center">  
+  
+</div>
+
+</td><td valign="top" width="33%">
+
+
 
 <h3 align="center"> DevOps </h3>
 <div align="center">  
@@ -63,22 +76,7 @@
 	<a href="https://kubernetes.io" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="50"/></a>
 	<a href="https://www.nginx.com" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" height="50"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/></a>  
-</div>  
-
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h3 align="center"> Operating Systems </h3>
-<div align="center">  
-    <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="50"/></a>
-    <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="50"/></a>
-</div>
-
+</div> 
 </td></tr></table>  
 
  
