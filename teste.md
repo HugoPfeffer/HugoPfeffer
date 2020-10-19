@@ -1,29 +1,22 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-</br>  
-</br>  
-
-<h1 align="center">Hi, Hallo, Olá! I'm Hugo Pfeffer, a self-thought developer and IT lover.</h1>
-<h3 align="center">I discovered my love for IT while playing a game called Arma 3. Since then I've learned a lot of new tools and technologies.</h3>
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=hugopfeffer&label=Profile%20views&color=0e75b6&style=flat" alt="hugopfeffer" />
-</p>
   
-</br>  
-</br>  
+
+### <div align="center">Hi, Hallo, Olá! I'm Hugo Pfeffer, a self-thought developer and IT enthusiast.</div>  
+  
 
 -   I’m currently working on getting the 
-**Red Hat Certified System Administrator**
+Red Hat Certified System Administrator  
   
 
--  I’m also learning **Kubernetes, Docker and Virtualization**
+-  I’m also learning Kubernetes, Docker and Virtualization  
   
 
-- Spoken languages  **English, German and Portuguese (native)**
+- Spoken languages  English, German and Portuguese (native)  
   
 
--  Fun fact: **VScode > Sublime**
+-  Fun fact: VScode > Sublime  
   
 
 <br/>  
@@ -81,12 +74,10 @@
 
 </td></tr></table>  
 
- 
 <br/>  
 
 
 ## Connect with me  
-<br/> 
 <div align="center">
 <a href="https://github.com/HugoPfeffer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -110,12 +101,38 @@
   
 
 <br/>  
-<br/>  
 
 
 ## Github Stats  
-<br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPfeffer&hide_border=true&layout=compact&theme=chartreuse-dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPfeffer&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
