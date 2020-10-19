@@ -4,7 +4,7 @@
 </br>  
 </br>  
 
-<h1 align="center">Hi, Hallo, Olá! I'm Hugo Pfeffer, a self-thought developer and IT enthusiast</h1>
+<h1 align="center">Hi, Hallo, Olá! I'm Hugo Pfeffer, a self-taught developer and IT enthusiast</h1>
 <h3 align="center">I discovered my love for IT while playing a game called Arma 3. Since then I've learned a lot of new tools and technologies</h3>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=hugopfeffer&label=Profile%20views&color=0e75b6&style=flat" alt="hugopfeffer" />
