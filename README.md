@@ -34,7 +34,7 @@
 
 
 
-### Languages and Tools  
+<h3 align="center"> Languages and Tools </h3>
 <div align="center">  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/></a>
 	<a href="https://www.java.com" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="50"/></a>
@@ -52,7 +52,7 @@
 
 
 
-### DevOps  
+<h3 align="center"> DevOps </h3>
 <div align="center">  
 	<a href="https://www.vagrantup.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" height="50"/></a>
 	<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" height="50"/></a>
@@ -73,7 +73,7 @@
 
 
 
-### Operating Systems  
+<h3 align="center"> Operating Systems </h3>
 <div align="center">  
     <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="50"/></a>
     <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="50"/></a>
