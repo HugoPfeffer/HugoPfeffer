@@ -17,8 +17,8 @@
 **Red Hat Certified System Administrator**
   
 
-- I’m also learning **Kubernetes, Docker and Virtualization**
-  
+- I’m also learning **Kubernetes, Docker and Virtualization** 
+
 
 - Spoken languages  **English, German and Portuguese (native)**
   
@@ -54,7 +54,9 @@
 <h3 align="center"> Operating Systems </h3>
 <div align="center">  
     <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="50"/></a>
-    <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="50"/></a>
+    <a href="https://www.centos.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="50"/></a>
+    <a href="https://www.redhat.com/en/enterprise-linux-8" target="_blank"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="centos" height="50"/></a>
+    <a href="https://ubuntu.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="centos" height="50"/></a>
 </div> 
 
 <div align="center">  
