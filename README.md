@@ -14,7 +14,7 @@
 </br>  
 
 - I’m currently working on getting the 
-**Red Hat Certified System Administrator**
+**Red Hat Certified System Administrator (RH124)**
   
 
 - I’m also learning **DevOps culture, tools and tech** 
