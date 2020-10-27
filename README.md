@@ -17,7 +17,7 @@
 **Red Hat Certified System Administrator**
   
 
-- I’m also learning **Kubernetes, Docker and Virtualization** 
+- I’m also learning **DevOps culture, tools and tech** 
 
 
 - Spoken languages  **English, German and Portuguese (native)**
