@@ -55,7 +55,7 @@
 <div align="center">  
     <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="50"/></a>
     <a href="https://www.centos.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="50"/></a>
-    <a href="https://www.redhat.com/en/enterprise-linux-8" target="_blank"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="centos" height="50"/></a>
+    <a href="https://www.redhat.com/en/enterprise-linux-8" target="_blank"><img src="img/red-hat-new-logo.svg" alt="RHEL" height="50"/></a>
     <a href="https://ubuntu.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="centos" height="50"/></a>
 </div> 
 
