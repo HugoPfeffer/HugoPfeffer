@@ -36,16 +36,16 @@
 
 <h3 align="center"> Languages and Tools </h3>
 <div align="center">  
-    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/></a>
-	<a href="https://www.java.com" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="50"/></a>
-	<a href="https://www.php.net" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" height="50"/></a>
-	<a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" height="50"/></a>
-	<a href="https://www.w3.org/html/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/></a>
-	<a href="https://getbootstrap.com" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="50"/></a>
-	<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/></a>
-	<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/></a>
-	<a href="https://www.photoshop.com/en" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="50"/></a>
-	<a href="https://sass-lang.com" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" height="50"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/></a>
+	<a href="https://www.java.com" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="50"/></a>
+	<a href="https://www.php.net" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" height="50"/></a>
+	<a href="https://www.python.org" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" height="50"/></a>
+	<a href="https://www.w3.org/html/" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/></a>
+	<a href="https://getbootstrap.com" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="50"/></a>
+	<a href="https://git-scm.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/></a>
+	<a href="https://www.mysql.com/" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/></a>
+	<a href="https://www.photoshop.com/en" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="50"/></a>
+	<a href="https://sass-lang.com" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" height="50"/></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -53,10 +53,10 @@
 
 <h3 align="center"> Operating Systems </h3>
 <div align="center">  
-    <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="50"/></a>
-    <a href="https://www.centos.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="50"/></a>
-    <a href="https://www.redhat.com/en/enterprise-linux-8" target="_blank"><img src="img/red-hat-new-logo.svg" alt="RHEL" height="50"/></a>
-    <a href="https://ubuntu.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="centos" height="50"/></a>
+    <a href="" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="50"/></a>
+    <a href="https://www.centos.org" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="50"/></a>
+    <a href="https://www.redhat.com/en/enterprise-linux-8" target="_blank"><img style="margin: 15px" src="img/red-hat-new-logo.svg" alt="RHEL" height="50"/></a>
+    <a href="https://ubuntu.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="centos" height="50"/></a>
 </div> 
 
 <div align="center">  
@@ -69,14 +69,14 @@
 
 <h3 align="center"> DevOps </h3>
 <div align="center">  
-	<a href="https://www.vagrantup.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" height="50"/></a>
-	<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" height="50"/></a>
-	<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" height="50"/></a>
-	<a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50"/></a>
-	<a href="https://cloud.google.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="50"/></a>
-	<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="50"/></a>
-	<a href="https://kubernetes.io" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="50"/></a>
-	<a href="https://www.nginx.com" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" height="50"/></a>
+	<a href="https://www.vagrantup.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" height="50"/></a>
+	<a href="https://www.ansible.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" height="50"/></a>
+	<a href="https://www.terraform.io/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" height="50"/></a>
+	<a href="https://aws.amazon.com" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50"/></a>
+	<a href="https://cloud.google.com" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="50"/></a>
+	<a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="50"/></a>
+	<a href="https://kubernetes.io" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="50"/></a>
+	<a href="https://www.nginx.com" target="_blank"><img style="margin: 15px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" height="50"/></a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/></a>  
 	<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="50"/></a>  
 </div> 
