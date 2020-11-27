@@ -9,20 +9,18 @@
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=hugopfeffer&label=Profile%20views&color=0e75b6&style=flat" alt="hugopfeffer" />
 </p>
-  
+
 </br>  
 </br>  
 
 - I’m currently working on getting the 
-**Red Hat Certified System Administrator (RH124)**
+**Red Hat Certified System Administrator (RHCSA)**
   
-
 - I’m also learning **DevOps culture, tools and tech** 
 
 
 - Spoken languages  **English, German and Portuguese (native)**
   
-
 - Fun fact: **VScode > Sublime**
   
 
@@ -60,7 +58,7 @@
 </div> 
 
 <div align="center">  
-  
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -82,7 +80,7 @@
 </div> 
 </td></tr></table>  
 
- 
+
 <br/>  
 
 
