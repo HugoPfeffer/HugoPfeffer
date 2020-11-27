@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="img/code_hello.gif" align="center" style="width: 100%" />
 </div>  
 </br>  
 </br>  
@@ -13,11 +13,9 @@
 </br>  
 </br>  
 
-- I’m currently working on getting the 
-**Red Hat Certified System Administrator (RHCSA)**
+- I’m currently working on getting the **Red Hat Certified System Administrator (RHCSA)**
   
 - I’m also learning **DevOps culture, tools and tech** 
-
 
 - Spoken languages  **English, German and Portuguese (native)**
   
