@@ -13,7 +13,7 @@
 </br>  
 </br>  
 
-- I’m currently working on getting the **Red Hat Certified System Administrator (RHCSA)**
+- I’m currently working on getting the **Red Hat Certified System Administrator (RHCSA)** and **Cisco Certified Network Associate (CCNA)**
   
 - I’m also learning **DevOps culture, tools and tech** 
 
