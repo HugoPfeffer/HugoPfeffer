@@ -36,7 +36,7 @@
 <div align="center">  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="img/css3.svg" alt="css3" height="50"/></a>
 	<a href="https://www.java.com" target="_blank"><img style="margin: 15px" src="img/java-4.svg" alt="java" height="50"/></a>
-	<a href="https://www.php.net" target="_blank"><img style="margin: 15px" src="img/php-1.svg" alt="php" height="50"/></a>
+	<a href="https://www.php.net" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="50"/></a>
 	<a href="https://www.python.org" target="_blank"><img style="margin: 15px" src="img/python-5.svg" alt="python" height="50"/></a>
 	<a href="https://www.w3.org/html/" target="_blank"><img style="margin: 15px" src="img/html-5.svg" alt="html5" height="50"/></a>
 	<a href="https://getbootstrap.com" target="_blank"><img style="margin: 15px" src="img/bootstrap-4.svg" alt="bootstrap" height="50"/></a>
@@ -70,7 +70,7 @@
 	<a href="https://www.vagrantup.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" height="50"/></a>
 	<a href="https://www.ansible.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" height="50"/></a>
 	<a href="https://www.terraform.io/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" height="50"/></a>
-	<a href="https://aws.amazon.com" target="_blank"><img style="margin: 15px" src="img/aws-2.svg" alt="aws" height="50"/></a>
+	<a href="https://aws.amazon.com" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="50"/></a>
 	<a href="https://cloud.google.com" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="50"/></a>
 	<a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="img/docker.svg" alt="docker" height="50"/></a>
 	<a href="https://kubernetes.io" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="50"/></a>
