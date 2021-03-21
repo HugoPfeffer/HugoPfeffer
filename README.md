@@ -35,7 +35,7 @@
 <h3 align="center"> Languages and Tools </h3>
 <div align="center">  
 	<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="img/css3.svg" alt="css3" height="50"/></a>
-	<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="img/c.svg" alt="c" height="50"/></a>
+	<a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20(%2Fsiː%2F%2C,efficiently%20to%20typical%20machine%20instructions." target="_blank"><img style="margin: 15px" src="img/c.svg" alt="c" height="50"/></a>
 	<a href="https://www.java.com" target="_blank"><img style="margin: 15px" src="img/java-4.svg" alt="java" height="50"/></a>
 	<a href="https://www.php.net" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="50"/></a>
 	<a href="https://www.python.org" target="_blank"><img style="margin: 15px" src="img/python-5.svg" alt="python" height="50"/></a>
