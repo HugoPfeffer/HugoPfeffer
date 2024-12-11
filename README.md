@@ -1,124 +1,57 @@
-<div align="center">
-<img src="img/code_hello.gif" align="center" style="width: 100%" />
-</div>  
-</br>  
-</br>  
+<!-- GIT HEADER -->
+<img src="https://github.com/HugoPfeffer/HugoPfeffer/blob/main/assets/banner-header.png">
 
-<h1 align="center">Hi, Hallo, Olá! I'm Hugo Pfeffer, a self-taught developer and IT enthusiast</h1>
-<h3 align="center">I discovered my love for IT while playing a game called Arma 3. Since then I've learned a lot of new tools and technologies</h3>
+<!-- VISITAS DO PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HugoPfeffer&label=Profile%20views&color=0e75b6&style=flat" alt="HugoPfeffer" /> </p>
+
+<!-- TYPING DATA -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ee0000&size=35&center=true&vCenter=true&width=1000&lines=Hugo+Pfeffer;Solutions+Architect)
+
+<!-- BREVE DESCRIÇÃO -->
+<div align="center">
+  
+  📚 Solutions Architect at [Red Hat](https://www.redhat.com)
+  
+  🌱 Always learning about tech trends **Kubernetes, Cloud, DevOps, AI, etc.**
+
+🏙 Creator of the [lheIA](https://github.com/lheia) organization
+
+<!-- 👩‍💻 Participant in the Enastic program of [Oracle Latin America](https://www.oracle.com/lad) and [Alura Latam](https://www.aluracursos.com/) -->
+
+🌍 Contributor in the [Kubernetes Project](https://github.com/kubernetes/kubernetes)
+
+📫 How to reach me **hugo.pguima@gmail.com**
+
+</div>
+<br>
+
+<!-- CONTACTO -->
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=hugopfeffer&label=Profile%20views&color=0e75b6&style=flat" alt="hugopfeffer" />
+<a href="https://www.linkedin.com/in/hugo-pfeffer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a> -->
+</p></br>
+
+<!-- LANGS AND TOOLS -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android_studio" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/> </a></p>
+<br>
+
+<!-- ACHIEVEMENTS GITHUB -->
+<h3 align="center">Stats:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HugoPfeffer&theme=dracula&column=-1" alt="hpfeffer" /></a> </p>
+
+<!-- STATS AND MOST USED LANGUAGES -->
+<div align="center">  
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HugoPfeffer&show_icons=true&count_private=true&hide_border=true&title_color=F776C0&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPfeffer&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117" />
+</div>
+
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=HugoPfeffer&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
 </p>
 
-</br>  
-</br>  
-
-- I’m currently working on getting: 
-  * **Red Hat Certified System Administrator (RHCSA)**
-  * **Cisco Certified Network Associate (CCNA)**
-  
-- I’m also learning **DevOps culture, tools and tech** 
-
-- Spoken languages  **English, German and Portuguese (native)**
-  
-- Fun fact: **VScode > Sublime**
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-<h3 align="center"> Languages and Tools </h3>
-<div align="center">  
-	<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="img/css3.svg" alt="css3" height="50"/></a>
-	<a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20(%2Fsiː%2F%2C,efficiently%20to%20typical%20machine%20instructions." target="_blank"><img style="margin: 15px" src="img/c.svg" alt="c" height="50"/></a>
-	<a href="https://www.java.com" target="_blank"><img style="margin: 15px" src="img/java-4.svg" alt="java" height="50"/></a>
-	<a href="https://www.php.net" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="50"/></a>
-	<a href="https://www.python.org" target="_blank"><img style="margin: 15px" src="img/python-5.svg" alt="python" height="50"/></a>
-	<a href="https://www.w3.org/html/" target="_blank"><img style="margin: 15px" src="img/html-5.svg" alt="html5" height="50"/></a>
-	<a href="https://getbootstrap.com" target="_blank"><img style="margin: 15px" src="img/bootstrap-4.svg" alt="bootstrap" height="50"/></a>
-	<a href="https://git-scm.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/></a>
-	<a href="https://www.mysql.com/" target="_blank"><img style="margin: 15px" src="img/mysql-7.svg" alt="mysql" height="50"/></a>
-	<a href="https://www.photoshop.com/en" target="_blank"><img style="margin: 15px" src="img/photoshop-cc.svg" alt="photoshop" height="50"/></a>
-	<a href="https://sass-lang.com" target="_blank"><img style="margin: 15px" src="img/sass-1.svg" alt="sass" height="50"/></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-<h3 align="center"> Operating Systems </h3>
-<div align="center">  
-    <a href="" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" height="50"/></a>
-    <a href="https://www.centos.org" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="50"/></a>
-    <a href="https://www.redhat.com/en/enterprise-linux-8" target="_blank"><img style="margin: 15px" src="img/red-hat-new-logo.svg" alt="RHEL" height="50"/></a>
-    <a href="https://ubuntu.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="centos" height="50"/></a>
-</div> 
-
-<div align="center">  
-
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h3 align="center"> DevOps </h3>
-<div align="center">  
-	<a href="https://www.vagrantup.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" height="50"/></a>
-	<a href="https://www.ansible.com/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" height="50"/></a>
-	<a href="https://www.terraform.io/" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" height="50"/></a>
-	<a href="https://aws.amazon.com" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="50"/></a>
-	<a href="https://cloud.google.com" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="50"/></a>
-	<a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="img/docker.svg" alt="docker" height="50"/></a>
-	<a href="https://kubernetes.io" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="50"/></a>
-	<a href="https://www.nginx.com" target="_blank"><img style="margin: 15px" src="img/nginx-1.svg" alt="nginx" height="50"/></a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/></a>  
-	<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="50"/></a>  
-</div> 
-</td></tr></table>  
-
-
-<br/>  
-
-
-## Connect with me  
-<br/> 
-<div align="center">
-<a href="https://github.com/HugoPfeffer" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/hugopfeffer" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/hugo.pfeffer" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/hugopfeffer" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/hugo-pfeffer" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/hugopfeffer" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto:hugo.pguima@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-F15025.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-<br/>  
-
-
-## Github Stats  
-<br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPfeffer&hide_border=true&layout=compact&theme=chartreuse-dark" align="center" /></div>  
-
-<br/>  
-
+<!-- GIF FOOTER -->
+<img src="https://github.com/HugoPfeffer/HugoPfeffer/raw/main/assets/banner-footer.png">
