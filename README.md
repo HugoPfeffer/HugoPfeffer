@@ -119,10 +119,11 @@
 
 <!-- Contribution Streak -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=HugoPfeffer&theme=merko&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HugoPfeffer&theme=merko&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
+
+
+
 
 <!-- ================================================================================================ -->
 <!--                                         FOOTER                                                -->
